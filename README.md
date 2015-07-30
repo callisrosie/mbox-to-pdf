@@ -25,7 +25,7 @@ Features
 •	Maintains email formatting during the conversion process
 
 
-Steps of converting MBOX to pdf 
+# Steps of converting MBOX to pdf 
 
 •	Select(.mbox) file – It is a single approach for selecting a file one by one
 
