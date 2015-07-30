@@ -27,21 +27,22 @@ Features
 
 Steps of converting MBOX to pdf 
 
+•	Select(.mbox) file – It is a single approach for selecting a file one by one
 
-1.	Select(.mbox) file – It is a single approach for selecting a file one by one
-2.	
-2.	Select folder having(.mbox) file – It is a batch approach, we can select a folder containing mbox files
-3.	
-3.	If we want to format our our file then we have to select the option from file naming option. The user then select one of the option from file naming option to format a file according to his need.
-4.	
-4.	Then select attachment saving option i.e. attachment can be save with pdf and in a separate folder depend on user requirement.
-5.	
-5.	After selecting the saving option it will ask for location, the user then provide the location from where user wants to save the file
-6.	
-6.	Then click on convert messages
-7.	
-7.	The files will convert in PDF format
-8.	
+•	Select folder having(.mbox) file – It is a batch approach, we can select a folder containing mbox files
+
+•	If we want to format our our file then we have to select the option from file naming option. The user then select one of the option from file naming option to format a file according to his need.
+
+•	Then select attachment saving option i.e. attachment can be save with pdf and in a separate folder depend on user requirement.
+
+•	After selecting the saving option it will ask for location, the user then provide the location from where user wants to save the file
+
+•	Then click on convert messages
+
+•	The files will convert in PDF format
+
+
+
 Read More - http://www.birdiesoftware.com/mbox-to-pdf/
 
 If you want to convert Thunderbird to PDF format then check out this link - http://www.birdiesoftware.com/thunderbird-to-pdf.html
